@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kudoleh/iOS-Clean-Architecture-MVVM/commit/a68da3e3faad7b221c4015e8aea92ba784666278",
       "git:hexsha": "a68da3e3faad7b221c4015e8aea92ba784666278",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T03:00:33.698142+00:00"
     }
   ]
 }
